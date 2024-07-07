@@ -1,5 +1,5 @@
 {
-  "name": "parcel-project-template",
+  "name": "y",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://Manucaffe.github.io//goit-js-hw-09",
@@ -24,10 +24,10 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
+    "gh-pages": "^6.1.1",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
