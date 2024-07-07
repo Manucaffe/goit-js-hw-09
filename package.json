@@ -5,7 +5,8 @@
   "homepage": "https://Manucaffe.github.io//goit-js-hw-09",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-09/",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
