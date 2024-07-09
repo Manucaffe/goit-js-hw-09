@@ -1,4 +1,4 @@
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
+import Notiflix, { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const formEl = document.querySelector('.form');
 let delayId = null;
